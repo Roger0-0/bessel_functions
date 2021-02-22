@@ -4,7 +4,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-###Contants#########################################
+###Constants#########################################
 #Simpson's Rule parameters, itterations, lower bound,
 #upper bound, step width.
 N=1000
