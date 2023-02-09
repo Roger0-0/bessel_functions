@@ -1,6 +1,3 @@
-#bessel_functions
-
-###################################################
 This is a interactive program that allows the user
 to visualize the Bessel functions. In particular 
 the program calculates the integral representation 
@@ -10,7 +7,6 @@ of the Bessel functions.
 constants section in the bessel.py file.
 Then run the file by: python3 bessel.py
 The Constants are explained below
-###################################################
 
 -For example adjust the MinX and MaxX values to 
 change x range on the graph. The steps parameter
